@@ -36,6 +36,13 @@ button{
     border-radius: 50px;
     border : 1px solid;
     border-color: gray;
-    
-    
+    font-size: 20px;
+    cursor: pointer;
+    background: #f8f8f8;
+    transition: background 0.2s;
+
+}
+
+button:hover {
+  background: #C1CFA1;
 }
